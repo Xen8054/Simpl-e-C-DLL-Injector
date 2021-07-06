@@ -5,7 +5,10 @@
 #include <fstream>
 
 //I MADE THIS SHIT IN LIKE 5 MINUTES (okay more like a lil less than 10)
-//char set must be set to Multi-Byte
+//shit code because i was kinda speedrunning when making this
+
+
+//IMPORTANT: char set must be set to Multi-Byte
 
 std::string TargetProcess;
 std::string dlllll;
